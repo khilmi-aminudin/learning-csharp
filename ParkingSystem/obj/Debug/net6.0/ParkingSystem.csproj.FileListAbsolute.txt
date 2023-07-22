@@ -1,0 +1,15 @@
+/home/takimi/learning-c#/ParkingSystem/obj/Debug/net6.0/ParkingSystem.csproj.AssemblyReference.cache
+/home/takimi/learning-c#/ParkingSystem/obj/Debug/net6.0/ParkingSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/takimi/learning-c#/ParkingSystem/obj/Debug/net6.0/ParkingSystem.AssemblyInfoInputs.cache
+/home/takimi/learning-c#/ParkingSystem/obj/Debug/net6.0/ParkingSystem.AssemblyInfo.cs
+/home/takimi/learning-c#/ParkingSystem/obj/Debug/net6.0/ParkingSystem.csproj.CoreCompileInputs.cache
+/home/takimi/learning-c#/ParkingSystem/bin/Debug/net6.0/ParkingSystem
+/home/takimi/learning-c#/ParkingSystem/bin/Debug/net6.0/ParkingSystem.deps.json
+/home/takimi/learning-c#/ParkingSystem/bin/Debug/net6.0/ParkingSystem.runtimeconfig.json
+/home/takimi/learning-c#/ParkingSystem/bin/Debug/net6.0/ParkingSystem.dll
+/home/takimi/learning-c#/ParkingSystem/bin/Debug/net6.0/ParkingSystem.pdb
+/home/takimi/learning-c#/ParkingSystem/obj/Debug/net6.0/ParkingSystem.dll
+/home/takimi/learning-c#/ParkingSystem/obj/Debug/net6.0/refint/ParkingSystem.dll
+/home/takimi/learning-c#/ParkingSystem/obj/Debug/net6.0/ParkingSystem.pdb
+/home/takimi/learning-c#/ParkingSystem/obj/Debug/net6.0/ParkingSystem.genruntimeconfig.cache
+/home/takimi/learning-c#/ParkingSystem/obj/Debug/net6.0/ref/ParkingSystem.dll
